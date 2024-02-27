@@ -24,4 +24,4 @@ const server = new SMTPServer({
 
 });
 const port = process.env.PORT || 3000;
-server.listen(port,()=>console.log("Server is running on port 25"))
+server.listen(port,()=>console.log("Server is running on port 3000"))
