@@ -1,0 +1,15 @@
+{
+  "name": "mail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/smtp-server": "^3.5.10",
+    "smtp-server": "^3.13.2"
+  }
+}
